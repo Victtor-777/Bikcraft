@@ -1,5 +1,5 @@
 <p>
-  <img src="./public/assets/github/preview.png" width="100%" />
+  <img src="./img/preview/preview.png" width="100%" />
 </p>
 
 # 🧩 Bikcraft
